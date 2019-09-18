@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="023730b7-2645-40a2-8781-2c184319571b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WebAutomation2020" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Qftn0xAJtm8CDrISzR76Px4m8M" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HomeDepo/src/test" />
+      <recent name="$PROJECT_DIR$/eBay/src/test" />
+      <recent name="$PROJECT_DIR$/Cnn/src/test" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="title" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/driver" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt; (1)">
+    <configuration name="EntertainmentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cnn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Entertainment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Entertainment" />
+      <option name="MAIN_CLASS_NAME" value="Entertainment.EntertainmentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/alamgir/Documents/SeleniumAutomation/WebAutomation2020/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/alamgir/Documents/SeleniumAutomation/WebAutomation2020/Cnn/src/test/resources/CnnRunnerTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cnn" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/test/resources/CnnRunnerTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/alamgir/Documents/SeleniumAutomation/WebAutomation2020/eBay/src/test/resources/EbayTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="eBay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/eBay/src/test/resources/EbayTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeDepo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item itemvalue="TestNG./Users/alamgir/Documents/SeleniumAutomation/WebAutomation2020/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <item itemvalue="TestNG./Users/alamgir/Documents/SeleniumAutomation/WebAutomation2020/Cnn/src/test/resources/CnnRunnerTest.xml" />
+        <item itemvalue="TestNG./Users/alamgir/Documents/SeleniumAutomation/WebAutomation2020/eBay/src/test/resources/EbayTestRunner.xml" />
+        <item itemvalue="TestNG.EntertainmentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="023730b7-2645-40a2-8781-2c184319571b" name="Default Changelist" comment="" />
+      <created>1568173641968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568173641968</updated>
+    </task>
+    <servers />
+  </component>
+</project>
